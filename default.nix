@@ -5,6 +5,7 @@ let
     "aarch64-darwin"
     "x86_64-darwin"
     "x86_64-linux"
+    "riscv64-linux"
   ];
 
   # List of all systems defined in nixpkgs
